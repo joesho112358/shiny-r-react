@@ -1,0 +1,7 @@
+.Rdata
+node_modules/
+dist/
+.Rproj.user/
+.Rhistory
+yarn.lock
+ShinyRunFun.Rproj
